@@ -2,3 +2,4 @@ virtual/
 _pycache_/
 *.pyc
 *_initial._pycache_
+.env
