@@ -1,4 +1,4 @@
- # PICTURESQUE {fotoGallery}
+ #  Gallery
 ---------------------------------------------------------------------------
 ## Developed by [Duncan Kiragu](https://github.com/mishael254)
 ---------------------------------------------------------------------------
@@ -54,9 +54,9 @@ The link to the images posted on the application can be gotten by clicking the C
 #### CLONING PROJECT
 * Open terminal and type:
 
-         $ git clone https://github.com/Duncan-Kiragu/fotoGallery
+         $ git clone https://github.com/mishael254/photo-gallery
 
-        $ cd fotoGallery
+        $ cd photo-gallery
 
 * OR download zip file to your laptop / computer
     
@@ -105,7 +105,7 @@ The link to the images posted on the application can be gotten by clicking the C
 ---------------------------------------------------------------------------
 ## LICENSE
 
-Copyright (c) 2020 - [Duncan-Kiragu]
+Copyright (c) 2020 - [Mishael-Ndegwa]
 
 ---------------------------------------------------------------------
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
