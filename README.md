@@ -1,6 +1,6 @@
  #  Gallery
 ---------------------------------------------------------------------------
-## Developed by [Duncan Kiragu](https://github.com/mishael254)
+## Developed by [Mishael Ndegwa](https://github.com/mishael254)
 ---------------------------------------------------------------------------
 ## DESCRIPTION
 This is a web application built using django framework that allows users to view images; the images are filtered using title,categories and tagged location. The app has an admin panel that allows adding of images and editing the details. It is cross-platform.
