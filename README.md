@@ -5,7 +5,7 @@
 ## DESCRIPTION
 This is a web application built using django framework that allows users to view images; the images are filtered using title,categories and tagged location. The app has an admin panel that allows adding of images and editing the details. It is cross-platform.
 
-#### [Link to live site]()
+#### [Link to live site](https://mishaelgallery1.herokuapp.com/)
 
 ## USER STORIES
 A user is able to :
